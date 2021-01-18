@@ -1,7 +1,5 @@
 # The-Easy-Animator
 
-Assignment 7 - The Easy Animator (Part 3)
-
 The Application has been divided into three parts that is Model, View and Controller. We are using the mvc controller design pattern to achieve the goal of creating the 
 Easy animator where we create , edit or move animation on the board. 
 
